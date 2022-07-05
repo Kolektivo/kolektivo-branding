@@ -7,6 +7,6 @@
             android:layout_gravity="center"
             android:gravity="fill_horizontal|fill_vertical"
     >
-        <bitmap android:src="@drawable/dot_green" android:gravity="fill_horizontal|fill_vertical"/>
+        <bitmap android:src="@drawable/dot_kolektivo" android:gravity="fill_horizontal|fill_vertical"/>
     </item>
 </layer-list>
