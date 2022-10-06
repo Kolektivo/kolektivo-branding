@@ -16,7 +16,7 @@ interface Props {
   style?: ViewStyle
 }
 
-export default function Logo({ style, height = 25, type = LogoTypes.COLOR }: Props) {
+export default function Logo({ style, height = 32, type = LogoTypes.COLOR }: Props) {
   let mainColor = 'none'
   switch (type) {
     case LogoTypes.DARK:
